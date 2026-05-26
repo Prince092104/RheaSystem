@@ -1,0 +1,52 @@
+[
+  {
+    "id": "event_sample_001",
+    "title": "Team Meeting",
+    "description": "Weekly sync with the development team to discuss project progress and roadblocks.",
+    "date": "2026-05-26",
+    "time": "14:00",
+    "category": "Work",
+    "created_at": "2026-05-20 09:30:00",
+    "attachment": ""
+  },
+  {
+    "id": "event_sample_002",
+    "title": "Project Deadline",
+    "description": "Submit final project deliverables to the client",
+    "date": "2026-05-29",
+    "time": "17:00",
+    "category": "Work",
+    "created_at": "2026-05-20 10:15:00",
+    "attachment": ""
+  },
+  {
+    "id": "event_sample_003",
+    "title": "Birthday Party",
+    "description": "Celebrating with friends and family. RSVP required!",
+    "date": "2026-06-15",
+    "time": "18:30",
+    "category": "Personal",
+    "created_at": "2026-05-20 11:00:00",
+    "attachment": ""
+  },
+  {
+    "id": "event_sample_004",
+    "title": "Doctor's Appointment",
+    "description": "Annual checkup - Remember to bring insurance card",
+    "date": "2026-06-02",
+    "time": "10:00",
+    "category": "Health",
+    "created_at": "2026-05-20 12:30:00",
+    "attachment": ""
+  },
+  {
+    "id": "event_sample_005",
+    "title": "Conference Attendance",
+    "description": "Tech Conference 2026 - Full day event with multiple sessions",
+    "date": "2026-06-10",
+    "time": "09:00",
+    "category": "Professional Development",
+    "created_at": "2026-05-20 14:00:00",
+    "attachment": ""
+  }
+]
